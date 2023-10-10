@@ -28,6 +28,11 @@ nav a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+nav a:hover{
+    color: chocolate;
+    text-decoration: underline;
+}
+
 #banner {
     width: 100%;
 }
