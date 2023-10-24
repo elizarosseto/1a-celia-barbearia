@@ -46,12 +46,12 @@ h1 {
 
 body {
     background-color: #583927;
-    background-image: linear-gradient(62deg, #583927 0%, #583927 100%);
+    background-image: linear-gradient(62deg, #583927 100%, #583927 100%);
     
 }
 
 .texto {
-background-color: #8f4b1f;
+background-color: #583927;
 font-size: 35px;
 text-align: center;
 }
