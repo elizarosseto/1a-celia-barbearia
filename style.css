@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover{
-    color: chocolate;
+    color: rgba(133, 68, 22, 0.712);
     text-decoration: underline;
 }
 
